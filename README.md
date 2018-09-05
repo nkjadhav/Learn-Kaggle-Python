@@ -1,7 +1,7 @@
 # Learn-Kaggle-Python
 
-Faster Data Science Education
+Kaggle is the world's largest community of data scientists and machine learners.
 
-Practical data skills you can apply immediately: that's what you'll learn in these free online courses.
+Kaggle also offers a public data platform, a cloud-based workbench for data science and short form AI & Data Science Education.
 
-They're the fastest (and most fun) way to become a data scientist or improve your current skills.
+In these free online courses one can learn practical data skills which are required in the field of a Data Science and Machine Learning.
